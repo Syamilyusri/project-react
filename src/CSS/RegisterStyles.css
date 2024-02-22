@@ -1,0 +1,8 @@
+.blur-background {
+  background-image: url('../Image/background.jpg');
+  background-size: cover;
+  height: 110vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+}
